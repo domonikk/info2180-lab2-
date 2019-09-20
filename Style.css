@@ -5,4 +5,8 @@ h1{
 
 P{ 
     font-size: 18px;   
+} 
+
+img{
+    dispaly: inline-block;
 }
